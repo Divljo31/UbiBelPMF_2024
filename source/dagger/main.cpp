@@ -6,7 +6,6 @@
 #include "gameplay/team_game/team_game_main.h"
 #include "gameplay/tiles_example/tiles_example_main.h"
 #include "gameplay/editor/editor_main.h"
-#include "gameplay/esccape/esccape_main.h"
 
 int main(int argc_, char** argv_)
 {
